@@ -29,7 +29,7 @@ Simple and user-friendly interface for inputting location and viewing weather up
 
 > bash
 
-`git clone <repository-url>`
+`git clone https://github.com/YashrajMTiwari/PythonWeatherCLI`
 
 > Install necessary dependencies:
 
