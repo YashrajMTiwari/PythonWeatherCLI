@@ -27,15 +27,15 @@ Simple and user-friendly interface for inputting location and viewing weather up
 
 > Clone the repository:
 
-> >bash
+> bash
 
-'git clone <repository-url>'
+`git clone <repository-url>`
 
-> >Install necessary dependencies:
+> Install necessary dependencies:
 
-> >bash
+> bash
 
-'pip install requests'
+`pip install requests`
 
 Get your OpenWeatherMap API key.
 Open the weather_app.py file and insert your API key:
